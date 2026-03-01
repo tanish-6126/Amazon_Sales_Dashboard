@@ -14,13 +14,14 @@ This project provides actionable insights into sales performance across products
 
 The Amazon Sales Dashboard is designed to deliver a comprehensive view of e-commerce sales performance, enabling analysis across product categories, sales trends, and customer engagement indicators.
 
-The dashboard answers key business questions such as:
-Which product categories generate the highest revenue?
-How do sales trends vary monthly and weekly over time?
-Which products contribute the most to YTD and QTD sales?
-How does customer engagement (reviews) relate to sales performance?
-Which products receive the highest number of reviews?
-What are the seasonal and peak sales periods across the year?
+The dashboard answers key business questions such as:  
+
+- Which product categories generate the highest revenue?
+- How do sales trends vary monthly and weekly over time?
+- Which products contribute the most to YTD and QTD sales?
+- How does customer engagement (reviews) relate to sales performance?
+- Which products receive the highest number of reviews?
+- What are the seasonal and peak sales periods across the year?
 
 This dashboard is intended for:
 
