@@ -3,31 +3,32 @@
 
 ![Zomato_Logo](https://github.com/tanish-6126/Amazon_Sales_Dashboard/blob/main/Amazon_Poster.png)
 
-**Project Title**: Blinkit Sales & Outlet Performance Dashboard  
+**Project Title**: Amazon Sales Performance Dashboard 
 **Tool Used**: Power BI Desktop
 
 
-An interactive Power BI dashboard built to analyze Blinkit’s sales performance, outlet distribution, product trends, and customer rating behavior.
-This project provides actionable insights into outlet types, item categories, fat content distribution, and regional sales performance.
+An interactive Power BI dashboard built to analyze Amazon product sales performance, category-wise trends, time-based growth, and customer engagement through reviews.
+This project provides actionable insights into sales performance across products and categories, monthly and weekly sales trends, top-performing products, and customer behavior patterns.
 
 ![Dashboard](https://github.com/tanish-6126/Amazon_Sales_Dashboard/blob/main/Amazon_Dashboard.png)
 
-The Blinkit Sales Dashboard is designed to analyze retail performance across multiple outlet tiers, sizes, and item categories.
+The Amazon Sales Dashboard is designed to deliver a comprehensive view of e-commerce sales performance, enabling analysis across product categories, sales trends, and customer engagement indicators.
 
 The dashboard answers key business questions such as:
-- Which outlet type generates the highest revenue?
-- How do sales vary by outlet tier and size?
-- Which product categories drive the most revenue?
-- What is the relationship between item visibility and sales?
-- How does fat content impact total sales?
-- How has outlet establishment performance changed over time?
+Which product categories generate the highest revenue?
+How do sales trends vary monthly and weekly over time?
+Which products contribute the most to YTD and QTD sales?
+How does customer engagement (reviews) relate to sales performance?
+Which products receive the highest number of reviews?
+What are the seasonal and peak sales periods across the year?
 
 This dashboard is intended for:
-- Retail business analysts
-- FMCG strategy teams
-- Operations managers
-- Sales & marketing teams
-- Data analytics portfolio evaluation
+
+E-commerce business analysts
+Category & product managers
+Sales & growth teams
+Marketplace strategy teams
+Data analytics portfolio evaluation
 
 ## Tech Stack  
   The dashboard was developed using:
