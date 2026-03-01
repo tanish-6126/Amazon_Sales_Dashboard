@@ -3,8 +3,7 @@
 
 ![Zomato_Logo](https://github.com/tanish-6126/Amazon_Sales_Dashboard/blob/main/Amazon_Poster.png)
 
-**Project Title**: Amazon Sales Performance Dashboard     
-
+**Project Title**: Amazon Sales Performance Dashboard<br>
 **Tool Used**: Power BI Desktop
 
 
