@@ -91,95 +91,82 @@ To build an interactive e-commerce analytics solution that:
   
 Insight:Strong sales growth observed in the later months, indicating festive season impact.  
 
-  ***🔹 Outlet Establishment Trend (Area Chart)***:  
-  - Displays sales performance by outlet establishment year.
-  - Shows growth patterns and peak establishment performance.
-
-  Insight: Significant spike around 2018 indicating high-performing expansion phase.
-
-  ***🔹 Fat Content Analysis (Donut Chart)***:  
-    Compares sales between:
-  - Low Fat Products
-  - Regular Products
+  ***🔹 Sales by Week (Bar Chart)***:  
   
-  Helps understand consumer health preference trends.
-
-  ***🔹 Item Type Sales (Bar Chart)***:  
-    Ranks product categories such as:
-  - Fruits & Vegetables
-  - Snack Foods
-  - Household
-  - Dairy
-  - Frozen Foods
-  - Canned Products
+- Shows week-wise sales distribution across the year.
+- Useful for understanding short-term demand fluctuations.
   
-  Insight: Fruits & Snack Foods contribute the highest revenue.
+Insight:Sales accelerate significantly in later weeks, highlighting promotional or peak shopping periods.
 
-  ***🔹 Outlet Size Distribution (Donut Chart)***:  
-    Compares sales across:
-  - Small
-  - Medium
-  - High outlets
+  ***🔹 Sales by Product Category (Table + Heatmap)***:     
   
-  Helps in understanding infrastructure scalability impact.
+Breakdown of:
+- YTD Sales
+- QTD Sales
+- % Contribution to Total Sales
 
-  ***🔹 Outlet Location Tier Analysis (Bar Chart)***:  
-    Compares:
-  - Tier 1
-  - Tier 2
-  - Tier 3 cities
+Top Categories:
+- Men Shoes
+- Cameras
+- Men Clothing
+- Car Accessories
+
+Insight: Men Shoes contribute the highest share (~43%) of total YTD sales.
+
+  ***🔹 Top 5 Products by Sales (Bar Chart)***:    
   
-  Insight: Tier 3 outlets generate the highest sales volume.
+Displays the highest revenue-generating products.
 
-  ***🔹 Outlet Type Performance (Matrix Table)***:  
-    Detailed comparison of:
-  - Supermarket Type 1
-  - Grocery Stores
-  - Supermarket Type 2
-  - Supermarket Type 3
-    Metrics included:
-  - Total Sales
-  - Average Sales
-  - Number of Items
-  - Average Rating
-  - Item Visibility
+Insight: A small set of products contributes a large portion of total revenue — ideal for focused marketing.
+
+  ***🔹 Top 5 Products by YTD Reviews (Bar Chart)***:  
   
-  Insight: Supermarket Type 1 contributes the largest share of total revenue.
+- Top 5 most-reviewed products
+- High customer engagement
+- Strong product visibility
+- Higher customer trust
 
+Insight: Products with more reviews tend to show better demand and sales performance.
+  
 ## Business Insights & Impact
 
-**📌 Revenue Optimization**:  
-Tier 3 outlets and Supermarket Type 1 drive maximum revenue — expansion strategy can prioritize similar regions.
+**📌 Revenue Focus**:  
+A few product categories drive the majority of revenue — inventory and ads can be optimized accordingly.
 
-**📌 Product Strategy**:  
-High-performing categories like Fruits and Snacks can be prioritized in promotions.
+**📌 Seasonality Detection**:  
+Monthly and weekly trends highlight peak demand periods.
 
-**📌 Customer Behavior**:  
-Balanced fat content sales indicate mixed health preference — opportunity for targeted campaigns.
+**📌 Customer Engagement**:  
+Products with higher reviews show stronger sales performance.
 
-**📌 Infrastructure Planning**:  
-Medium & High outlets contribute significant sales — store size planning affects revenue.
+**📌 Strategic Decision-Making**:  
+Helps stakeholders identify high-impact products and categories.
 
-**📌 Performance Benchmarking**:  
-Outlet type comparison enables benchmarking and operational optimization.
+## Interactive Filters    
 
-## Interactive Filters  
-Users can filter by:
-- Outlet Location Type
-- Outlet Size
-- Item Type
-- Clear All Filters Option
+Users can filter the dashboard by:
+- Product Category
+- Time Period (Month / Quarter)
+- Select All Filters option
 
-This ensures dynamic exploration of performance.
+This enables dynamic and flexible exploration of sales performance across products and time.
 
-## Conclusion
+## Conclusion  
 
-This project demonstrates my ability to build an end-to-end retail analytics dashboard using Power BI. It showcases strong skills in data transformation, DAX calculations, and insight-driven visualization. The dashboard effectively converts raw sales data into actionable business insights for decision-making.
+This project demonstrates my ability to design an end-to-end sales analytics dashboard using Power BI.
+It showcases skills in:
+- Data modeling
+- DAX calculations
+- Time-based analysis
+- Business storytelling through visuals
+
+The dashboard converts raw Amazon sales data into clear, actionable business insights.
 
 ## Notice
 
-All customer names, product records, outlet details, and transaction data used in this project are computer-generated using AI tools and random data generation techniques. They do not represent real data associated with Blinkit or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.
+All product names, sales figures, and review counts used in this project are synthetically generated for educational and portfolio purposes only.
+They do not represent actual Amazon data.
 
-## Developed By - SAGAR PANCHAL
+## Developed By - Tanish
 
-This project showcases Data Visualisation skills essential for database management and analysis.
+This project highlights strong data visualization and analytical skills essential for modern business intelligence roles.
