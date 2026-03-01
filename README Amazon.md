@@ -1,7 +1,7 @@
-# PowerBI Project: Sales Performance Dashboard for Blinkit – A Quick-Commerce company
+# PowerBI Project: Sales Performance Dashboard for Amazon Products
 ## Project Overview
 
-![Blinkit_Logo](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit.jpg)
+![Zomato_Logo](https://github.com/tanish-6126/Amazon_Sales_Dashboard/blob/main/Amazon_Poster.png)
 
 **Project Title**: Blinkit Sales & Outlet Performance Dashboard  
 **Tool Used**: Power BI Desktop
@@ -10,7 +10,7 @@
 An interactive Power BI dashboard built to analyze Blinkit’s sales performance, outlet distribution, product trends, and customer rating behavior.
 This project provides actionable insights into outlet types, item categories, fat content distribution, and regional sales performance.
 
-![Dashboard](https://github.com/SagarPanchal-com/Blinkit_Dashboard/blob/main/Blinkit_Dashboard.png)
+![Dashboard](https://github.com/tanish-6126/Amazon_Sales_Dashboard/blob/main/Amazon_Dashboard.png)
 
 The Blinkit Sales Dashboard is designed to analyze retail performance across multiple outlet tiers, sizes, and item categories.
 
