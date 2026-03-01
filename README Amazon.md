@@ -23,13 +23,13 @@ The dashboard answers key business questions such as:
 - Which products receive the highest number of reviews?
 - What are the seasonal and peak sales periods across the year?
 
-This dashboard is intended for:
+This dashboard is intended for:  
 
-E-commerce business analysts
-Category & product managers
-Sales & growth teams
-Marketplace strategy teams
-Data analytics portfolio evaluation
+- E-commerce business analysts
+- Category & product managers
+- Sales & growth teams
+- Marketplace strategy teams
+- Data analytics portfolio evaluation
 
 ## Tech Stack  
   The dashboard was developed using:
@@ -40,54 +40,56 @@ Data analytics portfolio evaluation
   - **File Format** – .pbit
 
 ## Dataset Information  
-  The dataset includes detailed retail transaction and outlet information such as:
-  - Item Type
-  - Fat Content (Low Fat / Regular)
-  - Outlet Tier (Tier 1, 2, 3)
-  - Outlet Size (Small, Medium, High)
-  - Outlet Location Type
-  - Outlet Establishment Year
-  - Total Sales
-  - Average Sales
-  - Number of Items
-  - Average Rating
-  - Item Visibility
+The dataset includes detailed Amazon product-level sales information such as:  
+
+- Product Name
+- Product Category
+- Year-to-Date (YTD) Sales
+- Quarter-to-Date (QTD) Sales
+- Units Sold
+- Monthly Sales
+- Weekly Sales
+- Customer Reviews Count
+- Time Period (Month, Week, Quarter)
 
 ## Key KPIs  
-  The dashboard highlights the following performance metrics:
-  - $1.20M Total Sales
-  - 8,523 Total Items
-  - 3.9 Average Rating
-  - $141 Average Sales per Item
+The dashboard highlights the following performance metrics:    
+
+- $2.18M – Year-to-Date (YTD) Sales
+- $811.09K – Quarter-to-Date (QTD) Sales
+- 27.75K – YTD Units Sold
+- 19.42M – YTD Customer Reviews
 
 ## Features & Highlights
 
-**🔸 Business Problem**:  
-  Blinkit operates across multiple outlet types and regions.
-  Management requires a centralized analytical view to:
-  - Monitor outlet-level performance
-  - Identify high-revenue product categories
-  - Optimize product mix
-  - mprove regional strategy
-  - Understand customer preference trends
+**🔸 Business Problem**:    
 
-Raw data alone does not provide strategic clarity.
+Amazon operates across multiple product categories and large-scale marketplaces.
+Management requires a centralized analytical view to:
+- Monitor overall and category-wise sales performance
+- Identify high-revenue and high-growth products
+- Optimize product portfolio and category mix
+- Track sales trends across time periods
+- Understand customer engagement and buying behavior
 
-**🔸 Goal of the Dashboard**:  
-  To build an interactive retail analytics solution that:
-  - Enables filtering by outlet location type, size, and item category
-  - Highlights revenue contribution by outlet tier
-  - Analyzes product category performance
-  - Evaluates infrastructure impact on sales
-  - Tracks historical establishment performance
+Raw transactional data alone does not provide clear strategic insights for decision-making.
+
+**🔸 Goal of the Dashboard**:    
+
+To build an interactive e-commerce analytics solution that:
+- Enables filtering by product category and time period (month, week, quarter)
+ -Highlights revenue contribution by product categories and top products
+- Analyzes sales performance trends over time
+- Evaluates the impact of customer engagement (reviews) on sales
+- Tracks historical sales performance to identify growth and seasonality patterns
 
 **🔸 Walkthrough of Key Visuals**:  
-  ***🔹 KPI Cards (Top Section)***:  
-  Quick snapshot of overall business performance:  
-  - Total Sales
-  - Average Sales
-  - Number of Items
-  - Average Rating
+  ***🔹 Sales by Month (Line Chart)***:    
+  
+- Displays monthly sales trend from January to December.
+- Helps identify seasonal spikes and demand patterns.
+  
+Insight:Strong sales growth observed in the later months, indicating festive season impact.  
 
   ***🔹 Outlet Establishment Trend (Area Chart)***:  
   - Displays sales performance by outlet establishment year.
